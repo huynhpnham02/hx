@@ -40,7 +40,7 @@ sudo bash -c 'cat <<EOT >>/usr/local/src/xmr-stak/build/bin/pools.txt
 "pool_list" :
 [
 {
-"pool_address" : "m1.xmpool.info:3333",
+"pool_address" : "159.65.163.255:3333",
 "wallet_address" : "",
 "rig_id" : "1", "pool_password" : "1", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1
 },
